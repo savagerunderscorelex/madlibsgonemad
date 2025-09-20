@@ -6,3 +6,18 @@ p, h1, h2{
     align-items: right;
     align-self: right;
 }
+
+
+form {
+    background-color: pink;
+    margin-left: 10vh;
+    margin-right: 10vh;
+    padding-left: 2%;
+    padding-right: 2%;
+    height: 80vh;
+}
+label {
+    display: block;
+
+
+}
