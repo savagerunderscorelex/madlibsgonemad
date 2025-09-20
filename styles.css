@@ -2,11 +2,19 @@ p, h1, h2{
     color: black;
     
 }
+
 #start-mad-lib {
     align-items: right;
     align-self: right;
 }
 
+input:hover {
+    color: gray;
+}
+
+.bg-gradient {
+    background: linear-gradient(#e66465, #9198e5);
+}
 
 form {
     background-color: pink;
@@ -14,10 +22,12 @@ form {
     margin-right: 25%;
     padding-left: 2%;
     padding-right: 2%;
-    height: 100vh;
+    height: 115vh;
+    margin-bottom: 5vh;
+    border-radius: 20px;
 }
 label {
     display: block;
-
-
+    margin-top: 2vh;
+    margin-bottom: 1vh;
 }
