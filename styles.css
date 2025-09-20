@@ -10,11 +10,11 @@ p, h1, h2{
 
 form {
     background-color: pink;
-    margin-left: 10vh;
-    margin-right: 10vh;
+    margin-left: 25%;
+    margin-right: 25%;
     padding-left: 2%;
     padding-right: 2%;
-    height: 80vh;
+    height: 100vh;
 }
 label {
     display: block;

@@ -4,7 +4,8 @@ I plan to create 2-3 Mad Libs for the user to make.
 
 
 Mad Lib 1:
-the 1stnoun was verb(ing) down the (2ndnoun), wanting to find a/an (3rdnoun). The 1stnoun entered the store to find the (3rdnoun). The (adjective) (1stnoun) went up to the (servicejobperson) and asked about the (3rdnoun). The (servicejobperson) told the (1stnoun) that the (3rdnoun) cost (number) dollars. [could use if/and statements ] The (1stnoun) looked inside their (color)(4noun) to check their money. 
+the 1stnoun was verb(ing) down the (2ndnoun), wanting to find a/an (3rdnoun). The 1stnoun entered the store to find the (3rdnoun). The (1st-adjective) (1stnoun) went up to the (servicejobperson) and asked about the (3rdnoun). The (servicejobperson) told the (1stnoun) that the (3rdnoun) cost (number) dollars. [could use if/and statements ] The (1stnoun) looked inside their (color)(4noun) to check their money. 
 The (1stnoun) found out they only had (number) dollars.
 
-1. The (1stnoun)
+1. The (1stnoun) realizes that they don't have enough money to buy the (3rd noun). They leave the store, defeated.
+2. The (1st noun) has enough money to buy the (3rdnoun). They purchase the (3rdnoun) from the (servicejobperson), elated.
