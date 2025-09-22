@@ -9,3 +9,5 @@
 * Create website for each mad lib
 * probably branch from the main every time I have a problem that might take me 2 hours like the fetching input issue (we have branches for a reason :p)
 * write wayyy better mad lib templates (look for inspo online, or base it off one of my existing stories)
+* consider using different javascript scripts for the different mad libs (1 script per madlib form and result page). I'm doing the portfolio script thing again because I feel like it would be easier for me to do it this way
+* add a basic nav (not a fancy sidebar, i'm not dealing with that again)
