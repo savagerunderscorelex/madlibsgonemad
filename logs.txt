@@ -28,3 +28,5 @@ function (click, submit) OR form.onsubmit {
     1. turn the input into a value (.value)
     2. console log the value
 }
+6PM I'm gonna be sick. I spent 25 minutes working on trying to fix the issue of getting the input value from the form but it isn't working at all. One idea I had was that 
+the bootstrap is interfering with everything, which makes the code not work. I'll try right now to adjust the code without the bootstrap cdns. 
