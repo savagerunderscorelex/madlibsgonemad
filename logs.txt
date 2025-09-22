@@ -15,3 +15,16 @@ I changed the gradiente of the first mad lib form, changed the color of the glow
 I changed the color of the text, and I think that's pretty much it 
 
 9:03 PM I changed the color of the shadow and border of the 1st mad lib form element inputs
+
+9/22
+5:54 AM I tried to code getting the input from users and storing them in a variable to put in the madlib. I tried to do this by first using code I created in a class and changing the values for this project,
+but whenever I tried to test the code it wouldn't work at all. According to the developer tools console log, there aren't any values to log, and when I try the value method it doesn't automatically put the value method (which means the code I'm doing rn is not valid.)
+
+Here is a solution I'm thinking of to check when I come back from school:
+
+let noun1 = document.getElementbyId("id") (or query selector)
+
+function (click, submit) OR form.onsubmit {
+    1. turn the input into a value (.value)
+    2. console log the value
+}
