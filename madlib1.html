@@ -8,10 +8,10 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
         <link rel="stylesheet" href="../styles.css">
 
-        <script src="../script.js"></script>
+        <script src="script.js"></script>
     </head>
     <header>
-        <h1 class="text-center">Mad Lib 1</h1>
+        <h1 class="text-center" id="heading">Mad Lib 1</h1>
     </header>
     <body>
         <div class="container-fluid">
@@ -47,7 +47,7 @@
                 <input class="form-control" type="number" id="2nd-number" placeholder="enter a number..." min="0" max="1000" required>
                 <div class="row">
                     <div class="col-md-5"></div>
-                    <button class="submit btn btn-default " id="submit">Submit</button> 
+                    <button class="submit btn btn-default " id="submit" onload="getInfo()">Submit</button> 
                     </div>
                 </div>
                 
