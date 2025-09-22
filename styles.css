@@ -1,8 +1,7 @@
 p, h1, h2{
-    color: black;
+    color: rgba(0, 0, 0, 1);
     
 }
-
 #start-mad-lib {
     align-items: right;
     align-self: right;
@@ -13,7 +12,7 @@ input:hover {
 }
 
 .bg-gradient {
-    background: linear-gradient(#e66465, #9198e5);
+    background: linear-gradient(#6b349f, #4f55ea);
 }
 
 form {
@@ -30,4 +29,12 @@ label {
     display: block;
     margin-top: 2vh;
     margin-bottom: 1vh;
+        color: black;
+
+}
+
+.form-control:focus {
+    box-shadow: 0px 0px 6px pink;
+    border-width: 1px;
+    border-color: rgba(255, 192, 203, 0.25);
 }

@@ -9,3 +9,9 @@ The (1stnoun) found out they only had (number) dollars.
 
 1. The (1stnoun) realizes that they don't have enough money to buy the (3rd noun). They leave the store, defeated.
 2. The (1st noun) has enough money to buy the (3rdnoun). They purchase the (3rdnoun) from the (servicejobperson), elated.
+
+9/21
+I changed the gradiente of the first mad lib form, changed the color of the glow when "focused" (and I'm trying to change it so that it'll changed smoother)
+I changed the color of the text, and I think that's pretty much it 
+
+9:03 PM I changed the color of the shadow and border of the 1st mad lib form element inputs
