@@ -30,3 +30,8 @@ function (click, submit) OR form.onsubmit {
 }
 6PM I'm gonna be sick. I spent 25 minutes working on trying to fix the issue of getting the input value from the form but it isn't working at all. One idea I had was that 
 the bootstrap is interfering with everything, which makes the code not work. I'll try right now to adjust the code without the bootstrap cdns. 
+
+6:16PM Don't know what the hell I did but it works now :) I tested the feature with the heading and it works now. I know there is a more "practical" and probably better way to do all this (basically actually learning backend) BUTTTTTTTTT that'll take kinda long, and 
+I started this as a small project that I can work on in between my bigger project (the music website). so basically I don't want to take hours learning something rn for a smaller project (not saying that I don't want to learn backend, though).
+
+7:32 PM I finished creating variables for the mad lib inputs in javascript. No this task did not take me an hour, I took a break.
