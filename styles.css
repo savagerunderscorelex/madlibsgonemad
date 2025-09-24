@@ -7,8 +7,19 @@ p, h1, h2{
     align-self: right;
 }
 
-input:hover {
-    color: gray;
+#mad-lib-form-one {
+    background: linear-gradient(white, hotpink);
+}
+#submit {
+    margin-top: 9px;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+#submit:hover {
+    box-shadow: 0px 0px 10px white;
+}
+.form-control:focus {
+    background-color: #E8E8E8;
 }
 
 .bg-gradient {
@@ -37,4 +48,8 @@ label {
     box-shadow: 0px 0px 6px pink;
     border-width: 1px;
     border-color: rgba(255, 192, 203, 0.25);
+}
+
+.mad-lib-results {
+    display: inline;
 }

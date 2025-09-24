@@ -37,3 +37,8 @@ I started this as a small project that I can work on in between my bigger projec
 7:32 PM I finished creating variables for the mad lib inputs in javascript. No this task did not take me an hour, I took a break.
 
 7:38 PM I added the rest of the pages that I will likely need to finish the project. i've reached my goal of coding 2 hours, so I'll get going now :)
+
+9/23 
+Around 6PM I moved around the files for my project. I changed the color of the background and centered the submit button. I also made the input fields turn a shade gray when clicked on. 
+
+Currently, I've been trying to figure out how to output the mad lib form inputs onto the template. However, I realized that I ACTUALLY have to do some form of backend to do it, which I don't think I would have time to learn. So, I'm just going to put the form and the result on one page, to make everything easier. I wish I took programming seriously, like 5 years ago.
