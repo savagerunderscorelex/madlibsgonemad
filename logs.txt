@@ -47,3 +47,6 @@ Currently, I've been trying to figure out how to output the mad lib form inputs 
 9:46 AM What I planned to do instead was to put the the result on the same page as the form. I finally got it to work (I forgot to update the querySelector value). However, I'm not sure how to format the site for it to work on the same page. 
 
 9:40 PM I think I'll just keep everything on the same page. I deleted the results page so that I could put the results and the form on the same page. 
+
+9:53 PM I changed the code so that there isn't an action on the mad lib form and that the changing of the elements only occurs when the form is actually submitted. However, I just realized something about the action attribute for forms. It goes to the website in the action when the form is submitted. Does that mean
+that I can actually have a separate page to show the results without using a database? I'll try to figure that out real soon. Too bad I deleted the results page too early.

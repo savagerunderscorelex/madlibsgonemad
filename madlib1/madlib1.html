@@ -15,7 +15,7 @@
     </header>
     <body id="mad-lib-form-one">
         <div id="mad-lib-one-page">
-            <form class="bg-gradient" id="form" action="#" method="post">
+            <form class="bg-gradient" id="form" action="../madlibresults/showresultmadlib2.html" onsubmit="heyExample()">
                 <label for="1st-noun">Noun</label>
                 <input class="form-control" type="text" id="1st-noun" placeholder="type a noun..." required/>
                 
@@ -46,9 +46,12 @@
                 <label for="2nd-number">Number (1-1000)</label>
                 <input class="form-control" type="number" id="2nd-number" placeholder="enter a number..." min="0" max="1000" required>
                 <div id="button-div" class="text-center">
-                    <button class="btn btn-default" id="button">Submit</button> 
+                    <input class="btn btn-default" id="button" type="submit">
                 </div>
             </form>
+            <div id="mad-lib-result-paragraph">
+            The <p class="mad-lib-results" id="first-noun-result"></p> was <p class="mad-lib-results" id="verb-ing-result"></p> down the <p class="mad-lib-results" id="second-noun-result"></p>. 
+            </div>
         </div>
        
         <script src="./madlib1script.js"></script>

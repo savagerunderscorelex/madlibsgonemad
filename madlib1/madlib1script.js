@@ -21,15 +21,11 @@ var form = document.getElementById("form");
 // Mad Lib Result Variables
 var firstNounResult = document.getElementById("first-noun-result");
 
-button.addEventListener("click", heyExample);
-
-// Transition Variables
-
-// form.addEventListener("submit", heyExample); // Calls the function when the button's submitted
+//button.addEventListener("click", heyExample);
 
 function heyExample() {
     firstNounResult.innerHTML = firstNoun.value;
-    
+    document.querySelector("title").innerText = "Results: Mad Lib 1";
     // Empty for now 
     /*
     heading.innerText = input.value;
