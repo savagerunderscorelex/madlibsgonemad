@@ -22,10 +22,12 @@ var form = document.getElementById("form");
 var firstNounResult = document.getElementById("first-noun-result");
 
 //button.addEventListener("click", heyExample);
+var cover = document.getElementById("mad-lib-result-cover");
 
 function heyExample() {
     firstNounResult.innerHTML = firstNoun.value;
     document.querySelector("title").innerText = "Results: Mad Lib 1";
+    cover.style.display = "none";
     // Empty for now 
     /*
     heading.innerText = input.value;
