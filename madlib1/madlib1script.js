@@ -21,13 +21,19 @@ var form = document.getElementById("form");
 // Mad Lib Result Variables
 var firstNounResult = document.getElementById("first-noun-result");
 
-//button.addEventListener("click", heyExample);
+// Other Stuff
 var cover = document.getElementById("mad-lib-result-cover");
+var paragraph = document.getElementById("mad-lib-result-paragraph");
+
+form.addEventListener("submit", heyExample);
 
 function heyExample() {
     firstNounResult.innerHTML = firstNoun.value;
     document.querySelector("title").innerText = "Results: Mad Lib 1";
-    cover.style.display = "none";
+    // Switching around the layers (whew)
+    cover.style.position = "absolute"; 
+    cover.style.zIndex = -1;
+    paragraph.style.position = "relative";
     // Empty for now 
     /*
     heading.innerText = input.value;
