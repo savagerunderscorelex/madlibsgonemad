@@ -60,3 +60,9 @@ that I can actually have a separate page to show the results without using a dat
 out how to fix it by switching the position and zindex values on submitting. I really need to start branching the project when I have issues.
 
 12:59 PM I took a break to start my day for real and hang my laundry. I started the navigation bar, added only 3 links (home, select, links), reorganized the mad lib pages and renamed the select page to be more intuitive.
+
+1:43 PM made the navlinks buttons
+
+2:50 PM added desc under heading and put them together in a div
+
+6:21 PM started on links page: added navigation, heading, and little description paragraph

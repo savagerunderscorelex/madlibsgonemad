@@ -3,6 +3,9 @@ p, h1, h2{
     color: rgba(0, 0, 0, 1);
     
 }
+html {
+    scroll-behavior: smooth;
+}
 
 /* Mad Lib Page Styling */
 #mad-lib-form-one {
@@ -94,7 +97,6 @@ label {
 /* Navigation Bar Styling */
 #nav-bg {
     background-color: white;
-    border-radius: 20px;
     height: 60px;
     width: auto;
     z-index: -1;
@@ -111,4 +113,15 @@ label {
     justify-content: center;
     align-items: center;
     height: 80%;
+}
+
+/* Footer Styling */
+
+#footer-bg {
+    width: 100%;
+    background-color: white;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

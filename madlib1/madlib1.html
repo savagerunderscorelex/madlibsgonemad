@@ -10,19 +10,25 @@
     
       
     </head>
-    <header>
-        <nav class="text-center">
-            <div id="nav-bg">
-                <div id="links-container">
-                    <a href="../index.html" class="navlinks">Home</a>
-                    <a href="../selectmadlib.html" class="navlinks">Select Mad Lib</a>
-                    <a href="../links.html" class="navlinks">Links</a>
-                </div>
-            </div>
-        </nav>
-        <h1 class="text-center" id="heading">Mad Lib 1</h1>
-    </header>
+
     <body id="mad-lib-form-one">
+        <header>
+            <nav class="text-center">
+                <div id="nav-bg">
+                    <div id="links-container">
+                        <button class="btn btn-default navlinks"><a href="../index.html" >Home</a></button>
+                        <button class="btn btn-default navlinks"><a href="../selectmadlib.html">Select Mad Lib</a></button>
+                        <button class="btn btn-default navlinks"><a href="../links.html">Links</a></button>
+                    </div>
+                </div>
+            </nav>
+            <div id="top-mad-lib" class="text-center">
+                <h1 id="heading">Mad Lib 1</h1>
+                <p id="page-desc">
+                    Type in some words and see the result in a mad lib!
+                </p>
+            </div>  
+        </header>
         <div id="mad-lib-one-page">
             <form class="bg-gradient" id="form" onsubmit="return false;">
                 <label for="1st-noun">Noun</label>
@@ -66,5 +72,10 @@
             </div>
         </div>  
         <script src="./madlib1script.js"></script>
+        <footer>
+            <div id="footer-bg">
+                <p class="text-center text-decoration-none" id="footer-desc">&copy; Savagerunderscorelex 2025 <a href="github.com/Savagerunderscorelex">Github</a></p>
+            </div>
+        </footer>
     </body>
 </html>
