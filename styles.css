@@ -1,16 +1,12 @@
+/* General Styling */
 p, h1, h2{
     color: rgba(0, 0, 0, 1);
     
 }
-#start-mad-lib {
-    align-items: right;
-    align-self: right;
-}
 
+/* Mad Lib Page Styling */
 #mad-lib-form-one {
-    background: linear-gradient(white, hotpink);
-
-
+    background: linear-gradient(gray, hotpink);
 }
 #button {
     margin-top: 9px;
@@ -92,4 +88,27 @@ label {
     width: 50%;
     border-radius: 20px;
     margin-top: 20px;
+}
+/* END_------------- */
+
+/* Navigation Bar Styling */
+#nav-bg {
+    background-color: white;
+    border-radius: 20px;
+    height: 60px;
+    width: auto;
+    z-index: -1;
+}
+.navlinks {
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    z-index: 1;
+}
+
+#links-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80%;
 }

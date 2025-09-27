@@ -58,3 +58,5 @@ that I can actually have a separate page to show the results without using a dat
 9/27
 10:45 AM I'm not sure why, but there was an issue with the paragraph disappearing under the form when the mad lib form is submitted. I don't know what happened that it caused this, since it was working just fine yesterday. even, I had an issue with the site refreshing when submitting the form, which also didn't happen yesterday (see my previous log). Either way, I figured 
 out how to fix it by switching the position and zindex values on submitting. I really need to start branching the project when I have issues.
+
+12:59 PM I took a break to start my day for real and hang my laundry. I started the navigation bar, added only 3 links (home, select, links), reorganized the mad lib pages and renamed the select page to be more intuitive.
