@@ -125,3 +125,33 @@ label {
     justify-content: center;
     align-items: center;
 }
+
+/* Home Page Styling */
+#go-button-container {
+    display: flex;
+    justify-content: right;
+    height: 100px;
+    width: auto;
+}
+
+.needs-a-margin{
+    margin-right:  2%; 
+    margin-left: 2%;
+}
+
+#start-mad-lib {
+    transition: margin-top 0.1s ease-in-out;
+    display: block;
+    height: fit-content;
+
+}
+
+#start-mad-lib:hover {
+    margin-top: -10px;
+    
+
+}
+
+#footer-home {
+    margin-top: 500px;
+}

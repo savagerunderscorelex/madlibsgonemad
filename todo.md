@@ -14,6 +14,7 @@
 * consider using different javascript scripts for the different mad libs (1 script per madlib form and result page). I'm doing the portfolio script thing again because I feel like it would be easier for me to do it this way
 * add a basic nav (not a fancy sidebar, i'm not dealing with that again)
 * edit scrollbar
+* HOW COULD I FORGET ABOUT FAVICONS????? I NEED TO MAKE FAVICONS
 
 ## Basic Overview of Pages
 

@@ -66,3 +66,5 @@ out how to fix it by switching the position and zindex values on submitting. I r
 2:50 PM added desc under heading and put them together in a div
 
 6:21 PM started on links page: added navigation, heading, and little description paragraph
+
+7:04 PM I adjusted the home page a bit: added margins to the page, edited the button that goes to the mad lib selection page, and adjusted the footer
