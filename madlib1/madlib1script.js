@@ -1,6 +1,6 @@
 // Getting all of the mad lib words and initializing the submit button
 
-var button = document.querySelector("button"); // Submit button
+var button = document.querySelector("#button"); // Submit button
 
 // Switching Function 
 
@@ -17,20 +17,19 @@ var firstColor = document.getElementById("1st-color");
 var fourthNoun = document.getElementById("4th-noun");
 var secondNumber = document.getElementById("2nd-number");
 
-
+var form = document.getElementById("form");
 // Mad Lib Result Variables
 var firstNounResult = document.getElementById("first-noun-result");
 
+button.addEventListener("click", heyExample);
 
 // Transition Variables
 
-button.addEventListener("click", heyExample); // Calls the function when the button's clicked on
+// form.addEventListener("submit", heyExample); // Calls the function when the button's submitted
 
 function heyExample() {
-
-
-    
     firstNounResult.innerHTML = firstNoun.value;
+    
     // Empty for now 
     /*
     heading.innerText = input.value;
