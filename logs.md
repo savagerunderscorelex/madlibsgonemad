@@ -91,3 +91,9 @@ John and his friends are going to the movie theater to see moviename. They were 
 1:24 PM Logs (gonna commit now): wrote the second mad lib, began putting the form inputs in the form and set up the second mad lib page, added the 2nd mad lib script, changed the limit for the number inputs
 
 3:40 PM Finished mad lib 2's form inputs, added a style for all forms so that the styling is more standardized
+
+3:46 PM I'm going to change the mad lib 1 story (not right now though)
+
+3:55 Pm actually nevermind, i'm going to challenge myself lol
+
+7:18 PM Added all the result blanks and the paragraph for the 2nd mad lib

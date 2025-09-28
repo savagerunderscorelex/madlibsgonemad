@@ -13,7 +13,7 @@ var firstColor = document.getElementById("1st-color");
 var fourthNoun = document.getElementById("4th-noun");
 var secondNumber = document.getElementById("2nd-number");
 
-var form = document.getElementById("form");
+var form = document.getElementById("form-mad-lib-1");
 // Mad Lib Result Variables
 var firstNounResult = document.getElementById("first-noun-result");
 var verbIngResult = document.getElementById("verb-ing-result");
@@ -39,6 +39,10 @@ var paragraph = document.getElementById("mad-lib-result-paragraph");
 form.addEventListener("submit", heyExample);
 
 function heyExample() {
+    var compare1st = parseInt(firstNumber.value); // For the last Phrase
+    var compare2nd = parseInt(secondNumber.value);
+
+    // Changing all the result HTML to the input values
     firstNounResult.innerHTML = firstNoun.value;
     verbIngResult.innerHTML = verbIng.value;
     secondNounResult.innerHTML = secondNoun.value;
@@ -55,7 +59,12 @@ function heyExample() {
     thirdNounResultPartFour.innerHTML = thirdNoun.value;
     firstNumberResult.innerHTML = firstNumber.value;
 
-
+    // The if statement that affects the last statement for the mad lib, in progress
+    if (compare1st > compare2nd) {
+        console.log("will do this later") // Changes inner HTML to be: the firstNoun cannot afford the item
+    } else if (compare1st <= compare2nd) {
+        console.log("will do this later") // Changed inner HTML to be: the firstNoun gets the item
+    }
     document.querySelector("title").innerText = "Results: Mad Lib 1";
     // Switching around the layers (whew)
     cover.style.position = "absolute"; 
