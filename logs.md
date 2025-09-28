@@ -100,5 +100,7 @@ John and his friends are going to the movie theater to see moviename. They were 
 
 7:32 PM Added the cover for mad lib 2 and also standardized the styling by using classes instead of ids for certain elements
 
-7:43 PM Made variables for the input variables in the 2nd mad lib js file
+7:43 PM Made variables for the input variables in the 2nd mad lib js file *commit*
+
+7:47 PM Logging off 
 

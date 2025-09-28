@@ -21,3 +21,7 @@ var secondFood = document.getElementById("2nd-food");
 var fourthNumber = document.getElementById("4th-number");
 var secondCurrency = document.getElementById("2nd-currency");
 var fourthAdjective = document.getElementById("4th-adjective");
+
+var form = document.getElementById("form-mad-lib-2");
+
+// Mad Lib Result Variables 
