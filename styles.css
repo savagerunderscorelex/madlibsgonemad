@@ -8,6 +8,19 @@ html {
     scroll-behavior: smooth;
 }
 
+form {
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-bottom: 3vh;
+    border-radius: 20px;
+    display: block;
+    padding-bottom: 2%;
+    padding-top: 1%;
+    height: fit-content;
+}
+
 /* Mad Lib Page Styling */
 #mad-lib-form-one {
     background: linear-gradient(gray, hotpink);
@@ -26,20 +39,10 @@ html {
     background-color: #E8E8E8;
 }
 
-.bg-gradient {
-    background: linear-gradient(#6b349f, #4f55ea);
-}
 
-form {
-    background-color: pink;
-    margin-left: 25%;
-    margin-right: 25%;
-    padding-left: 2%;
-    padding-right: 2%;
-    height: 115vh;
-    margin-bottom: 3vh;
-    border-radius: 20px;
-    display: block;
+#form-mad-lib-1 {
+   background: linear-gradient(#6b349f, #4f55ea); 
+   
 }
 label {
     display: block;
@@ -97,7 +100,11 @@ label {
 /* END_------------- */
 /* Mad Lib 2 Styling */
 #mad-lib-form-two {
-    background: linear-gradient(green, white)
+    background: linear-gradient(green, white);
+}
+
+#form-mad-lib-2 {
+    background: linear-gradient(#6b349f, #4f55ea);
 }
 
 /* Navigation Bar Styling */

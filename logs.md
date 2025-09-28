@@ -89,3 +89,5 @@ mainly draining me ngl. I did something else but I forgot
 John and his friends are going to the movie theater to see moviename. They were so 1excited to see the movie because they had spent 1number 1dollars on the movie tickets. When they got to the movie theater, the 1cashier asked how many people were watching the movie. John said 2number people. After the John and his friends got their tickets, they went inside the movie theater, 1adverbily 1verbing. They sat down to watch the movie, commenting on the 2adjective 1nouns and the adjective 2nouns. The movie went on for 3number 1units of time. When the movie ended, John and his friends left the movie theater to get snacks. They got 1food and 2food, totaling up to 4number 2dollars. They had an 2adjective movie day!
 
 1:24 PM Logs (gonna commit now): wrote the second mad lib, began putting the form inputs in the form and set up the second mad lib page, added the 2nd mad lib script, changed the limit for the number inputs
+
+3:40 PM Finished mad lib 2's form inputs, added a style for all forms so that the styling is more standardized
