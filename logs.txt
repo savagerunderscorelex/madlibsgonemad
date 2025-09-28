@@ -73,3 +73,6 @@ out how to fix it by switching the position and zindex values on submitting. I r
 
 10:42 PM Last log for the day: I worked on adding the rest of the mad lib to the first mad lib page, and I created the variables for the results in javascript. I would've finished it today but I'm wayyy too tired to do so. I did the code that would show the form variables in the paragraph as well, so I think that's what's
 mainly draining me ngl. I did something else but I forgot
+
+9/28
+7:58 AM switched the anchor and button elements around, started on the second mad lib page, connected all the empty elements and form elements in javascript

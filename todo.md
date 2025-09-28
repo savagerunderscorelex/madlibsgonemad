@@ -17,6 +17,7 @@
 * HOW COULD I FORGET ABOUT FAVICONS????? I NEED TO MAKE FAVICONS
 * standardize the input colors on mad lib form 1
 * mention that these are surprise mad libs 
+* ~~switch around <a>s and <button>s to make the whole button an anchor (move class navlinks to anchor instead of button)~~
 
 ## Basic Overview of Pages
 

@@ -25,6 +25,12 @@ var thirdNounResultPartTwo = document.getElementById("third-noun-result-2");
 var firstAdjectiveResult = document.getElementById("first-adjective-result");
 var firstNounResultPartThree = document.getElementById("first-noun-result-3");
 var serviceJobResult = document.getElementById("service-job-result");
+var thirdNounResultPartThree = document.getElementById("third-noun-result-3");
+var serviceJobResultPartTwo = document.getElementById("service-job-result-2");
+var firstNounResultPartFour = document.getElementById("first-noun-result-4");
+var thirdNounResultPartFour = document.getElementById("third-noun-result-4");
+var firstNumberResult = document.getElementById("first-number-result");
+
 
 // Variables for the cover and the paragraph 
 var cover = document.getElementById("mad-lib-result-cover");
@@ -43,6 +49,12 @@ function heyExample() {
     firstAdjectiveResult.innerHTML = firstAdjective.value;
     firstNounResultPartThree.innerHTML = firstNoun.value;
     serviceJobResult.innerHTML = serviceJob.value;
+    thirdNounResultPartThree.innerHTML = thirdNoun.value;
+    serviceJobResultPartTwo.innerHTML = serviceJob.value;
+    firstNounResultPartFour.innerHTML = firstNoun.value;
+    thirdNounResultPartFour.innerHTML = thirdNoun.value;
+    firstNumberResult.innerHTML = firstNumber.value;
+
 
     document.querySelector("title").innerText = "Results: Mad Lib 1";
     // Switching around the layers (whew)
