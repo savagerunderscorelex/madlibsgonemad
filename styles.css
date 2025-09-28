@@ -12,6 +12,7 @@ html {
 #mad-lib-form-one {
     background: linear-gradient(gray, hotpink);
 }
+
 #button {
     margin-top: 9px;
     transition: box-shadow 0.3s ease-in-out;
@@ -94,6 +95,10 @@ label {
     margin-top: 20px;
 }
 /* END_------------- */
+/* Mad Lib 2 Styling */
+#mad-lib-form-two {
+    background: linear-gradient(green, white)
+}
 
 /* Navigation Bar Styling */
 #nav-bg {
