@@ -1,11 +1,7 @@
-// Getting all of the mad lib words and initializing the submit button
-
-var button = document.querySelector("#button"); // Submit button
-
-// Switching Function 
+// Getting all of the mad lib words
 
 // Mad Lib Form Variables
-var heading = document.getElementById("heading");
+var heading = document.getElementById("heading"); // Was for a test (will delete later)
 var firstNoun = document.getElementById("1st-noun");
 var verbIng = document.getElementById("verb-ing");
 var secondNoun = document.getElementById("2nd-noun");
@@ -20,8 +16,17 @@ var secondNumber = document.getElementById("2nd-number");
 var form = document.getElementById("form");
 // Mad Lib Result Variables
 var firstNounResult = document.getElementById("first-noun-result");
+var verbIngResult = document.getElementById("verb-ing-result");
+var secondNounResult = document.getElementById("second-noun-result");
+var thirdNounResult = document.getElementById("third-noun-result");
+var firstNounResultPartTwo = document.getElementById("first-noun-result-2");
+var secondNounResultPartTwo = document.getElementById("second-noun-result-2");
+var thirdNounResultPartTwo = document.getElementById("third-noun-result-2");
+var firstAdjectiveResult = document.getElementById("first-adjective-result");
+var firstNounResultPartThree = document.getElementById("first-noun-result-3");
+var serviceJobResult = document.getElementById("service-job-result");
 
-// Other Stuff
+// Variables for the cover and the paragraph 
 var cover = document.getElementById("mad-lib-result-cover");
 var paragraph = document.getElementById("mad-lib-result-paragraph");
 
@@ -29,17 +34,21 @@ form.addEventListener("submit", heyExample);
 
 function heyExample() {
     firstNounResult.innerHTML = firstNoun.value;
+    verbIngResult.innerHTML = verbIng.value;
+    secondNounResult.innerHTML = secondNoun.value;
+    thirdNounResult.innerHTML = thirdNoun.value;
+    firstNounResultPartTwo.innerHTML = firstNoun.value;
+    secondNounResultPartTwo.innerHTML = secondNoun.value;
+    thirdNounResultPartTwo.innerHTML = thirdNoun.value;
+    firstAdjectiveResult.innerHTML = firstAdjective.value;
+    firstNounResultPartThree.innerHTML = firstNoun.value;
+    serviceJobResult.innerHTML = serviceJob.value;
+
     document.querySelector("title").innerText = "Results: Mad Lib 1";
     // Switching around the layers (whew)
     cover.style.position = "absolute"; 
     cover.style.zIndex = -1;
     paragraph.style.position = "relative";
-    // Empty for now 
-    /*
-    heading.innerText = input.value;
-    heading.innerText = inputSecond.value;
-    heading.innerText = inputThird.value;
-    */
 }   
 
 

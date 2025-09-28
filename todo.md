@@ -15,6 +15,8 @@
 * add a basic nav (not a fancy sidebar, i'm not dealing with that again)
 * edit scrollbar
 * HOW COULD I FORGET ABOUT FAVICONS????? I NEED TO MAKE FAVICONS
+* standardize the input colors on mad lib form 1
+* mention that these are surprise mad libs 
 
 ## Basic Overview of Pages
 
