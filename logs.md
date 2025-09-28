@@ -97,3 +97,8 @@ John and his friends are going to the movie theater to see moviename. They were 
 3:55 Pm actually nevermind, i'm going to challenge myself lol
 
 7:18 PM Added all the result blanks and the paragraph for the 2nd mad lib
+
+7:32 PM Added the cover for mad lib 2 and also standardized the styling by using classes instead of ids for certain elements
+
+7:43 PM Made variables for the input variables in the 2nd mad lib js file
+

@@ -68,7 +68,7 @@ label {
     z-index: 1;
 }
 
-#reveal {
+.reveal-mad-lib {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -83,14 +83,16 @@ label {
     font-size: 4em;
 }
 
-
 #mad-lib-result-paragraph {
-    position: absolute;
     background-color: blue;
     color: white;
+}
+
+.result-paragraphs {
+    position: absolute;
    
 }
-#mad-lib-result-paragraph, #mad-lib-result-cover {
+.result-paragraphs, #mad-lib-result-cover {
     margin-bottom: 20px;
     height: 300px;
     width: 50%;
@@ -105,6 +107,14 @@ label {
 
 #form-mad-lib-2 {
     background: linear-gradient(#6b349f, #4f55ea);
+}
+
+#result-paragraph-2 {
+    background-color: purple;
+    color: white;
+}
+#reveal-2 {
+
 }
 
 /* Navigation Bar Styling */
