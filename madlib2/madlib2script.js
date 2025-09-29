@@ -25,3 +25,26 @@ var fourthAdjective = document.getElementById("4th-adjective");
 var form = document.getElementById("form-mad-lib-2");
 
 // Mad Lib Result Variables 
+var nameResult = document.getElementById("name-result");
+var movieNameResult = document.getElementById("movie-name-result");
+var firstAdjectiveResult = document.getElementById("first-adjective-result");
+var firstNumberResult= document.getElementById("first-number-result");
+var firstCurrencyResult = document.getElementById("first-currency-result");
+var occupationResult = document.getElementById("occupation-result");
+var nameResultPartTwo = document.getElementById("name-result-2");
+var secondNumberResult = document.getElementById("second-number-result");
+var nameResultPartThree = document.getElementById("name-result-3");
+var firstAdverbResult = document.getElementById("first-adverb-result");
+var verbIngResult = document.getElementById("verb-ing-result");
+var secondAdjectiveResult = document.getElementById("second-adjective-result");
+var firstNounResult = document.getElementById("first-noun-result");
+var thirdAdjectiveResult = document.getElementById("third-adjective-result");
+var secondNounResult = document.getElementById("second-noun-result");
+var thirdNumberResult = document.getElementById("third-number-result");
+var unitOfTimeResult = document.getElementById("unit-of-time-result");
+var nameResultPartFour = document.getElementById("name-result-4");
+var firstFoodResult = document.getElementById("first-food-result");
+var secondFoodResult = document.getElementById("second-food-result");
+var fourthNumberResult = document.getElementById("fourth-number-result");
+var secondCurrencyResult = document.getElementById("second-currency-result");
+var fourthAdjectiveResult = document.getElementById("fourth-adjective-result");

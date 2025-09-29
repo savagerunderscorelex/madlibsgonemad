@@ -104,3 +104,6 @@ John and his friends are going to the movie theater to see moviename. They were 
 
 7:47 PM Logging off 
 
+9/29
+4:59PM Finished adding all of the result variables
+
