@@ -1,7 +1,7 @@
 // Script for filling in the mad lib blanks (ooh I love the commenting font)
 
 // Mad Lib Form Variables
-var name = document.getElementById("name");
+var personName = document.getElementById("person-name");
 var movieName = document.getElementById("movie-name");
 var firstAdjective = document.getElementById("1st-adjective");
 var firstNumber = document.getElementById("1st-number");
@@ -48,3 +48,39 @@ var secondFoodResult = document.getElementById("second-food-result");
 var fourthNumberResult = document.getElementById("fourth-number-result");
 var secondCurrencyResult = document.getElementById("second-currency-result");
 var fourthAdjectiveResult = document.getElementById("fourth-adjective-result");
+
+// Variables for Cover and Paragraph
+var cover = document.getElementById("mad-lib-result-cover");
+var paragraph = document.getElementById("result-paragraph-2");
+
+// Form Event Listener
+form.addEventListener("submit", insertFormResults);
+
+// Function for inputting the results into the result paragraph
+function insertFormResults() {
+    // Changing result.innerHTML to input values
+    nameResult.innerHTML = personName.value;
+    movieNameResult.innerHTML = movieName.value;
+    firstAdjectiveResult.innerHTML = firstAdjective.value;
+    firstNumberResult.innerHTML = firstNumber.value
+    firstCurrencyResult.innerHTML = firstCurrency.value;
+    occupationResult.innerHTML = occupation.value;
+    nameResultPartTwo.innerHTML = personName.value;
+    secondNumberResult.innerHTML = secondNumber.value;
+    nameResultPartThree.innerHTML = personName.value;
+    firstAdverbResult.innerHTML = firstAdverb.value;
+    verbIngResult.innerHTML = verbIng.value;
+    secondAdjectiveResult.innerHTML = secondAdjective.value;
+    firstNounResult.innerHTML = firstNoun.value;
+    thirdAdjectiveResult.innerHTML = thirdAdjective.value;
+    secondNounResult.innerHTML = secondNoun.value;
+    thirdNumberResult.innerHTML = thirdNumber.value;
+    unitOfTimeResult.innerHTML = unitOfTime.value;
+    nameResultPartFour.innerHTML = personName.value;
+    firstFoodResult.innerHTML = firstFood.value;
+    secondFoodResult.innerHTML = secondFood.value;
+    fourthNumberResult.innerHTML = fourthNumber.value;
+    secondCurrencyResult.innerHTML = secondCurrency.value;
+    fourthAdjectiveResult.innerHTML = fourthAdjective.value;
+
+}

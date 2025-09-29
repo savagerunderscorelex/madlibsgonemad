@@ -107,3 +107,4 @@ John and his friends are going to the movie theater to see moviename. They were 
 9/29
 4:59PM Finished adding all of the result variables
 
+5:45 PM Finished coding the part of the function which inserts the form input values into the paragraph's blanks
