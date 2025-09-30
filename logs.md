@@ -108,3 +108,7 @@ John and his friends are going to the movie theater to see moviename. They were 
 4:59PM Finished adding all of the result variables
 
 5:45 PM Finished coding the part of the function which inserts the form input values into the paragraph's blanks
+
+5:55 PM I updated the Mad Lib 2 form to specify that the nouns are supposed to be plural nouns (I forgot to do this). Also I tested out my mad libs, they're working great :)!!! just one more to go!
+
+?? Also added the js code for the cover layer and the paragraphs + commit

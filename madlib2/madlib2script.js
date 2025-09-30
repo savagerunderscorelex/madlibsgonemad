@@ -82,5 +82,9 @@ function insertFormResults() {
     fourthNumberResult.innerHTML = fourthNumber.value;
     secondCurrencyResult.innerHTML = secondCurrency.value;
     fourthAdjectiveResult.innerHTML = fourthAdjective.value;
+    // Switching Layers for the Paragraph and Cover on Submit
+    cover.style.position = "absolute";
+    cover.style.zIndex = -1;
+    paragraph.style.position = "relative";
 
 }

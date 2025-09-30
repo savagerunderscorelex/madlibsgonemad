@@ -18,7 +18,9 @@
 * standardize the input colors on mad lib form 1
 * mention that these are surprise mad libs
 * ~~switch around `<a>`s and `<button>`s to make the whole button an anchor (move class navlinks to anchor instead of button)~~
-* finish off mad lib results variables in javascript file
+* ~~finish off mad lib results variables in javascript file~~
+* style the mad lib paragraphs
+
 
 ## Basic Overview of Pages
 
