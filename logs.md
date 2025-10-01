@@ -125,3 +125,5 @@ Noun1 is my favorite noun2! I like noun1 because it is adj1, adj2, and adj3. Eve
 8:42 PM I started the mad lib 3 page, including the heading, description, and the navigation bar (I did this in the morning I think but I forgot to log)
 
 9:05 PM Edited mad lib 3, finished adding all of the mad lib form inputs
+
+9:17 PM changed background and form color, linked the script (i guess I never did that???? idk how) and added part of the mad-lib reveal code

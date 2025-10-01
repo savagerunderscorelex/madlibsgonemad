@@ -113,11 +113,15 @@ label {
     background-color: purple;
     color: white;
 }
-#reveal-2 {
 
-}
 /*Mad Lib 3 Styling */
+#mad-lib-form-three {
+    background: linear-gradient(hotpink, black);
+}
 
+#form-mad-lib-3 {
+    background: linear-gradient(blue, yellow);
+}
 /* Navigation Bar Styling */
 #nav-bg {
     background-color: white;
