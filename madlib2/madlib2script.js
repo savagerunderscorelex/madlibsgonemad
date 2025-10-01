@@ -22,7 +22,7 @@ var fourthNumber = document.getElementById("4th-number");
 var secondCurrency = document.getElementById("2nd-currency");
 var fourthAdjective = document.getElementById("4th-adjective");
 
-var form = document.getElementById("form-mad-lib-2");
+var form = document.getElementById("form-mad-lib-2"); // Form Itself
 
 // Mad Lib Result Variables 
 var nameResult = document.getElementById("name-result");
@@ -86,5 +86,7 @@ function insertFormResults() {
     cover.style.position = "absolute";
     cover.style.zIndex = -1;
     paragraph.style.position = "relative";
+    // Title Element Change, Forgot to Add when Coding this:
+    document.querySelector("title").innerText = "Results: Mad Lib 2";
 
 }
