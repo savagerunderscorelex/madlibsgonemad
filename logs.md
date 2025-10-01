@@ -118,5 +118,8 @@ John and his friends are going to the movie theater to see moviename. They were 
 1st Draft
 Pizza is my favorite food! I like pizza because it is awesome, delicious, and tasty. Every day I buy 10 pizzas from the local pizza store. I even spend up to 10000 dollars per year on buying pizzas! My friends say I love pizza too much, and say that my spending is extremely bad. However, I say that they are wrong. Pizza is the best thing in my life, and I will never give it up!
 
+9/30/25 (i think?)
 2nd Draft with the "blanks"
-Noun1 is my favorite noun2! I like noun1 because it is adj1, adj2, and adj3. Every (unit of time) I buy num1 noun1-plural from the adj4 noun3. I even sped up to num2 currency per unitoftime2 on buyin noun1. My noun4plural say that I verb2 noun1 too much, and say that my spending is adverb1 adj5. However I think that they are adj6. Noun1 is the adj7 noun2 in my life, and I will adverb2 give it up!
+Noun1 is my favorite noun2! I like noun1 because it is adj1, adj2, and adj3. Every (unit of time) I buy num1 noun1-plural from the adj4 noun3. I even spend up to num2 currency per unitoftime2 on buyin noun1. My noun4plural say that I verb2 noun1 too much, and say that my spending is adverb1 adj5. However I think that they are adj6. Noun1 is the adj7 noun2 in my life, and I will adverb2 give it up!
+
+8:42 PM I started the mad lib 3 page, including the heading, description, and the navigation bar
