@@ -4,9 +4,6 @@ p, h1, h2{
     color: rgba(0, 0, 0, 1);
     
 }
-html {
-    scroll-behavior: smooth;
-}
 
 form {
     margin-left: 25%;
@@ -201,3 +198,24 @@ a:hover {
 }
 
 /* Scrollbar */
+html::-webkit-scrollbar {
+    scroll-behavior: smooth;
+    width: 19px;
+}
+html::-webkit-scrollbar-track{
+    background: darkblue;
+}
+
+html::-webkit-scrollbar-thumb {
+    background-color: blue;
+    border-radius: 15px;
+    border:3px solid black;
+}
+
+html::-webkit-scrollbar-thumb:hover {
+    background: purple;
+}
+/* Button Stuff */
+.btn-default, .wanna-be-different {
+    border-radius: 20px;
+}
