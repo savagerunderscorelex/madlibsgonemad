@@ -1,7 +1,7 @@
 /* Font Imports */
 @import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Henny+Penny&display=swap');
-.mystery-quest-regular, input, #page-desc, .result-paragraphs {
-  font-family: "Mystery Quest", system-ui;
+.caveat-brush-regular, input, #page-desc, .result-paragraphs {
+  font-family: "Caveat Brush", cursive;
   font-weight: 400;
   font-style: normal;
 }
