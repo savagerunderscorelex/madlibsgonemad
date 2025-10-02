@@ -144,3 +144,7 @@ yay first day of the month
 9:40 PM Adjusted an issue where the cover was still visible on submit, it was because I never added a background color to the result paragraph lol
 
 10:22 PM I wanted to make all of the buttons more round, but only the home page buttons are not following the rule I put in the css file for SOME reason. I'll try to figure this out tomorrow
+
+10/2
+
+5:08 PM Removed button styling since the github pages site did not appear correctly (mad lib selection, + the button problem from yesterday)

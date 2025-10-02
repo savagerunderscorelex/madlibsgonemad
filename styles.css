@@ -216,6 +216,3 @@ html::-webkit-scrollbar-thumb:hover {
     background: purple;
 }
 /* Button Stuff */
-.btn-default, .wanna-be-different {
-    border-radius: 20px;
-}
