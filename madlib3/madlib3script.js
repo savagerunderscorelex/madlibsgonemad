@@ -21,3 +21,27 @@ var seventhAdjective = document.getElementById("7th-adjective");
 var secondAdverb = document.getElementById("2nd-adverb");
 
 // Mad Lib Result Variables
+var firstNounResult = document.getElementById("first-noun-result");
+var secondNounResult = document.getElementById("second-noun-result");
+var firstNounResultPartTwo = document.getElementById("first-noun-result-2");
+var firstAdjectiveResult = document.getElementById("first-adjective-result");
+var secondAdjectiveResult = document.getElementById("second-adjective-result");
+var thirdAdjectiveResult = document.getElementById("third-adjective-result");
+var firstUnitOfTimeResult = document.getElementById("first-unit-of-time-result");
+var firstNumberResult = document.getElementById("first-number-result");
+var firstNounResultPartThree = document.getElementById("first-noun-result-3");
+var fourthAdjectiveResult = document.getElementById("fourth-adjective-result");
+var thirdNounResult = document.getElementById("third-noun-result");
+var secondNumberResult = document.getElementById("second-number-result");
+var currencyResult = document.getElementById("currency-result");
+var secondUnitOfTimeResult = document.getElementById("second-unit-of-time-result");
+var firstNounResultPartFour = document.getElementById("first-noun-result-4");
+var verbResult = document.getElementById("verb-result");
+var firstNounResultPartFive = document.getElementById("first-noun-result-5");
+var firstAdverbResult = document.getElementById("first-adverb-result");
+var fifthAdjectiveResult = document.getElementById("fifth-adjective-result");
+var sixthAdjectiveResult = document.getElementById("sixth-adjective-result");
+var firstNounResultPartSix = document.getElementById("first-noun-result-6");
+var seventhAdjectiveResult = document.getElementById("seventh-adjective-result");
+var secondNounResultPartTwo = document.getElementById("second-noun-result-2");
+var secondAdverbResult = document.getElementById("second-adverb-result");

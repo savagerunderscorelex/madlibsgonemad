@@ -137,3 +137,5 @@ yay first day of the month
 
 4:31 Created all of the 3rd mad lib input variables to the js file
 
+8:59 PM Created all of the result mad lib variables in the js file
+
