@@ -20,6 +20,9 @@ var sixthAdjective = document.getElementById("6th-adjective");
 var seventhAdjective = document.getElementById("7th-adjective");
 var secondAdverb = document.getElementById("2nd-adverb");
 
+// Form
+var form = document.getElementById("form-mad-lib-3");
+
 // Mad Lib Result Variables
 var firstNounResult = document.getElementById("first-noun-result");
 var secondNounResult = document.getElementById("second-noun-result");
@@ -45,3 +48,43 @@ var firstNounResultPartSix = document.getElementById("first-noun-result-6");
 var seventhAdjectiveResult = document.getElementById("seventh-adjective-result");
 var secondNounResultPartTwo = document.getElementById("second-noun-result-2");
 var secondAdverbResult = document.getElementById("second-adverb-result");
+
+// Variables for cover and paragraph
+var cover = document.getElementById("mad-lib-result-cover");
+var paragraph = document.getElementById("result-paragraph-3");
+
+// Event Listener for Submitting the Form 
+form.addEventListener("submit", doMadLib);
+function doMadLib() {
+    firstNounResult.innerHTML = firstNoun.value;
+    secondNounResult.innerHTML = secondNoun.value;
+    firstNounResultPartTwo.innerHTML = firstNoun.value;
+    firstAdjectiveResult.innerHTML = firstAdjective.value;
+    secondAdjectiveResult.innerHTML = secondAdjective.value;
+    thirdAdjectiveResult.innerHTML = thirdAdjective.value;
+    firstUnitOfTimeResult.innerHTML = firstUnitOfTime.value;
+    firstNumberResult.innerHTML = firstNumber.value;
+    firstNounResultPartThree.innerHTML = firstNoun.value;
+    fourthAdjectiveResult.innerHTML = fourthAdjective.value;
+    thirdNounResult.innerHTML = thirdNoun.value;
+    secondNumberResult.innerHTML = secondNumber.value;
+    currencyResult.innerHTML = currency.value;
+    secondUnitOfTimeResult.innerHTML = secondUnitOfTime.value;
+    firstNounResultPartFour.innerHTML = firstNoun.value;
+    verbResult.innerHTML = verb.value;
+    firstNounResultPartFive.innerHTML = firstNoun.value;
+    firstAdverbResult.innerHTML = firstAdverb.value;
+    fifthAdjectiveResult.innerHTML = fifthAdjective.value;
+    sixthAdjectiveResult.innerHTML = sixthAdjective.value;
+    firstNounResultPartSix.innerHTML = firstNoun.value;
+    seventhAdjectiveResult.innerHTML = seventhAdjective.value;
+    secondNounResultPartTwo.innerHTML = secondNoun.value;
+    secondAdverbResult.innerHTML = secondAdverb.value;
+
+    // Switching Cover and Paragraph Layers
+    cover.style.position = "absolute";
+    cover.style.zIndex = -1;
+    paragraph.style.position = "relative";
+    // Title Changing
+    document.querySelector("title").innerText = "Results: Mad Lib 3";
+}

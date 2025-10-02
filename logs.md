@@ -139,3 +139,6 @@ yay first day of the month
 
 8:59 PM Created all of the result mad lib variables in the js file
 
+9:36 Did the code that would put the value of the input into the blanks, added the code to remove the top layer, added form event listner and adjusted the html due to errors
+
+9:40 PM Adjusted an issue where the cover was still visible on submit, it was because I never added a background color to the result paragraph lol

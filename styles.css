@@ -122,6 +122,11 @@ label {
 #form-mad-lib-3 {
     background: linear-gradient(blue, yellow);
 }
+
+#result-paragraph-3 {
+    background-color: red;
+    color: white;
+}
 /* Navigation Bar Styling */
 #nav-bg {
     background-color: white;
