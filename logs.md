@@ -148,3 +148,5 @@ yay first day of the month
 10/2
 
 5:08 PM Removed button styling since the github pages site did not appear correctly (mad lib selection, + the button problem from yesterday)
+
+5:12 PM lol I forgot github pages is really specific about file paths so I adjusted select mad lib stylesheet file path
