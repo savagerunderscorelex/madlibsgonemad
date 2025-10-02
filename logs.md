@@ -150,3 +150,5 @@ yay first day of the month
 5:08 PM Removed button styling since the github pages site did not appear correctly (mad lib selection, + the button problem from yesterday)
 
 5:12 PM lol I forgot github pages is really specific about file paths so I adjusted select mad lib stylesheet file path
+
+6:22 PM found a cute font for "regular" text: Sour Gummy, inprog setting all the fonts, added second font for headings, adjusted mad lib form page headings to accommadate the new font
