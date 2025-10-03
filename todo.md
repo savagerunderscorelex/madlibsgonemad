@@ -25,6 +25,12 @@
 * add links to links page
 * add footer to links page
 * yeah I think that's it
+* actually no, update read me when project is complete
+  * Journey
+  * Idea
+  * Background
+  * Inspiration
+
 
 
 
