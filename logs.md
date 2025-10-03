@@ -159,3 +159,5 @@ Proud of everything rn
 
 10/3/2025 
 6:34 PM did basic coloring for the home page, got to finally make the buttons rounds (having to write !important), configured percentages for margins and paddings
+
+7:09 PM I realized that the way I did the design was absolutely horrible. I edited the coloring of the homepage (which is going to be the basis on how I color the rest of the site) by making the nav and the footer green, which already makes it 10 times better than my previous design. 
