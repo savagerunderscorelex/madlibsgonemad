@@ -152,3 +152,7 @@ yay first day of the month
 5:12 PM lol I forgot github pages is really specific about file paths so I adjusted select mad lib stylesheet file path
 
 6:22 PM found a cute font for "regular" text: Sour Gummy, inprog setting all the fonts, added second font for headings, adjusted mad lib form page headings to accommadate the new font
+
+9:32 PM I finally got to add the fonts to all of the elements, took me awhile since I didn't remember to add a common class between everything (unfortunately). I'm hoping to complete this project after about 2-3 more hours of work since I already spent so much time on it :3
+
+Proud of everything rn

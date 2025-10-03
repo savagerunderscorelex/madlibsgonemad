@@ -1,12 +1,17 @@
 /* Font Imports */
-@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Henny+Penny&display=swap');
-.caveat-brush-regular, input, #page-desc, .result-paragraphs {
-  font-family: "Caveat Brush", cursive;
-  font-weight: 400;
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&family=Merienda:wght@300..900&display=swap');
+
+
+.merienda-regular, input, #page-desc, .result-paragraphs, #footer-desc, #start-mad-lib, .under-heading, .navlinks {
+  font-family: "Merienda", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
   font-style: normal;
+
 }
 
-.henny-penny-regular, #heading {
+
+.henny-penny-regular, #heading, #mad-lib-cover-words, .mad-lib-selection-buttons, .mad-lib-headings-2 {
   font-family: "Henny Penny", system-ui;
   font-weight: 400;
   font-style: normal;
@@ -14,12 +19,11 @@
 
 /* General Styling */
 label {
-  font-family: "Sour Gummy", sans-serif;
+  font-size: 1.2em;
+  font-family: "Merienda", cursive;
   font-optical-sizing: auto;
   font-weight: 600;
   font-style: normal;
-  font-variation-settings: "wdth" 100;
-  font-size: 1.2em;
 }
 p, h1, h2 {
     color: rgba(0, 0, 0, 1);
@@ -38,7 +42,9 @@ form {
     padding-top: 1%;
     height: fit-content;
 }
-
+.mad-lib-headings-2, #heading, .navlinks {
+    color: black;
+}
 /* Mad Lib Page Styling */
 #mad-lib-form-one {
     background: linear-gradient(gray, hotpink);
@@ -109,6 +115,7 @@ label {
 
 .result-paragraphs {
     position: absolute;
+
    
 }
 .result-paragraphs, #mad-lib-result-cover {
@@ -117,6 +124,12 @@ label {
     width: 50%;
     border-radius: 20px;
     margin-top: 20px;
+}
+
+#actual-words {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 25%;
 }
 /* END_------------- */
 /* Mad Lib 2 Styling */
@@ -213,11 +226,13 @@ label {
     padding-top: 6%;
     padding-bottom: 6%;
     font-size: 5em;
+    color: black;
 }
 
 a:hover {
     text-decoration: none;
 }
+
 
 /* Scrollbar */
 html::-webkit-scrollbar {
