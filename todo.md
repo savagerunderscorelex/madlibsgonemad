@@ -5,7 +5,7 @@
 * ~~Create Mad Libs selection page~~
 * ~~Write the mad libs story with blanks~~
 * ~~figure out how to use js to insert user inputs into a mad lib~~
-* Also choose fonts for the website
+* ~~Also choose fonts for the website~~
 * finish homepage
 * maybe figure out how to allow users to create custom links to share their mad lib results? (it might take me years to do it ngl)
 * ~~Create ~~website~~ page for each mad lib~~
@@ -23,6 +23,8 @@
 * Create Color Theme (Scrollbar, backgrounds, color theme for each page)
 * structure the homepage better
 * add links to links page
+* add footer to links page
+* yeah I think that's it
 
 
 
