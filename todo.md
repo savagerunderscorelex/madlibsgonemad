@@ -13,15 +13,15 @@
 *~~ write wayyy better mad lib templates (look for inspo online, or base it off one of my existing stories)~~
 * ~~consider using different javascript scripts for the different mad libs (1 script per madlib form and result page). I'm doing the portfolio script thing again because I feel like it would be easier for me to do it this way~~
 * ~~add a basic nav (not a fancy sidebar, i'm not dealing with that again)~~
-* edit scrollbar
-* HOW COULD I FORGET ABOUT FAVICONS????? I NEED TO MAKE FAVICONS
+* ~~edit scrollbar~~
+* ~~HOW COULD I FORGET ABOUT FAVICONS????? I NEED TO MAKE FAVICONS~~
 * standardize the input colors on mad lib form 1
 * mention that these are surprise mad libs
 * ~~switch around `<a>`s and `<button>`s to make the whole button an anchor (move class navlinks to anchor instead of button)~~
 * ~~finish off mad lib results variables in javascript file~~
-* style the mad lib paragraphs
-* Create Color Theme (Scrollbar, backgrounds, color theme for each page)
-* structure the homepage better
+* ~~style the mad lib paragraphs~~
+* ~~Create Color Theme (Scrollbar, backgrounds, color theme for each page)~~
+* ~~structure the homepage better~~
 * add links to links page
 * add footer to links page
 * yeah I think that's it
