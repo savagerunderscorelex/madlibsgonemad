@@ -181,3 +181,5 @@ Proud of everything rn
 7:44 AM I'm not going to do the variable last sentence anymore since it causes issues with my code (now at least). So I'm going to adjust the inputs for the 1st mad lib and also adjust the result paragraph. It took me a while to even realize the error: if the code for the variable sentence is there, the form doesn't submit at all. There may be a possible way to fix it, but I think that may take me too long to figure out. 
 
 8:08 AM I finished adding all of the "blanks" and adding the variables to the javascript doc!! I'm done with the code now!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! :)
+
+8:47 AM I updated the readme, and I adjusted the styling of the mad lib selection buttons (I forgot to do so lol)

@@ -359,14 +359,15 @@ nav:hover {
     padding-top: 6% !important;
     padding-bottom: 6% !important;
     font-size: 6em !important;
-    color: black;
-    background-color: #3a794f;
-    transition: background-color 0.4s ease, color 0.4s ease;
+    color: white;
+    background-color: #72b589 !important;
+    transition: background-color 0.4s ease, color 0.4s ease !important;
 }
 
 .mad-lib-selection-buttons:hover {
-    background-color: #2c623e;
-    color: white;
+    background-color: #2c623e !important;
+    color: white !important;
+    text-decoration: none !important;
 }
 a:hover {
     text-decoration: none;
