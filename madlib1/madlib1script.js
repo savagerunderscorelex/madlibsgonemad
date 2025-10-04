@@ -11,7 +11,6 @@ var serviceJob = document.getElementById("service-job");
 var firstNumber = document.getElementById("1st-number");
 var firstColor = document.getElementById("1st-color");
 var fourthNoun = document.getElementById("4th-noun");
-var secondNumber = document.getElementById("2nd-number");
 
 var form = document.getElementById("form-mad-lib-1");
 // Mad Lib Result Variables
@@ -31,29 +30,24 @@ var firstNounResultPartFour = document.getElementById("first-noun-result-4");
 var thirdNounResultPartFour = document.getElementById("third-noun-result-4");
 var firstNumberResult = document.getElementById("first-number-result");
 
-var variableFinal = document.getElementById("variable");
+var firstNounResultPartFive = document.getElementById("first-noun-result-5");
+var firstColorResult = document.getElementById("first-color-result");
+var fourthNounResult = document.getElementById("fourth-noun-result");
+var thirdNounResultPartFive = document.getElementById("third-noun-result-5");
+var firstNounResultPartSix = document.getElementById("first-noun-result-6");
+var thirdNounResultPartSix = document.getElementById("third-noun-result-6");
+
+
 
 // Variables for the cover and the paragraph 
 var cover = document.getElementById("mad-lib-result-cover");
 var paragraph = document.getElementById("mad-lib-result-paragraph");
 
 
-var firstNounFinal = firstNounResult.value;
-var thirdNounFinal = thirdNounResult.value;
-var serviceFinal = serviceJobResult.value;
-
-firstNounFinal = firstNounFinal.toString();
-
-var lessThan = "The " + firstNounFinal + " realizes that the don't have enough money to buy the " + toString(thirdNounFinal) + ". They leave the store, defeated.";
-var greaterThan = "The " + toString(firstNounFinal) + " has enough money to buy the " + toString(thirdNounFinal) + ". They purchase the " + thirdNounFinal + " from the " + toString(serviceFinal) + ", elated.";
 
 form.addEventListener("submit", heyExample);
-
-function heyExample() {
-    var compare1st = parseInt(firstNumber.value); // For the last Phrase
-    var compare2nd = parseInt(secondNumber.value);
-
     // Changing all the result HTML to the input values
+function heyExample() {
     firstNounResult.innerHTML = firstNoun.value;
     verbIngResult.innerHTML = verbIng.value;
     secondNounResult.innerHTML = secondNoun.value;
@@ -69,20 +63,19 @@ function heyExample() {
     firstNounResultPartFour.innerHTML = firstNoun.value;
     thirdNounResultPartFour.innerHTML = thirdNoun.value;
     firstNumberResult.innerHTML = firstNumber.value;
+    firstNounResultPartFive.innerHTML = firstNoun.value;
+    firstColorResult.innerHTML = firstColor.value;
+    fourthNounResult.innerHTML = fourthNoun.value;
+    thirdNounResultPartFive.innerHTML = thirdNoun.value;
+    firstNounResultPartSix.innerHTML = firstNoun.value;
+    thirdNounResultPartSix.innerHTML = thirdNoun.value;
 
-    // The if statement that affects the last statement for the mad lib, in progress
-    if (compare1st > compare2nd) {
-        variableFinal.innerHTML = lessThan;    // Changes inner HTML to be: the firstNoun cannot afford the item
-    } else if (compare1st <= compare2nd) {
-        variableFinal.innerHTML = greaterThan; // Changed inner HTML to be: the firstNoun gets the item
-    }
-    
     document.querySelector("title").innerText = "Results: Mad Lib 1";
     // Switching around the layers (whew)
     cover.style.position = "absolute"; 
     cover.style.zIndex = -1;
     paragraph.style.position = "relative";
-}   
 
+}   
 
 

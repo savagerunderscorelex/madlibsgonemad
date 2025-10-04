@@ -175,3 +175,9 @@ Proud of everything rn
 11:06 PM Finished the links page
 
 11:42 PM I thought I could finish today, but I have one issue with the variable sentence for mad lib 1. I've been testing and retrying ways to output the conditionals for the past 40 minutes, but it hasn't worked yet. When I was finally able to maybe be able to output the last sentence properly, the form stops working. It's getting late so I'll try to finish the project tomorrow. 
+
+10/4/2025 
+
+7:44 AM I'm not going to do the variable last sentence anymore since it causes issues with my code (now at least). So I'm going to adjust the inputs for the 1st mad lib and also adjust the result paragraph. It took me a while to even realize the error: if the code for the variable sentence is there, the form doesn't submit at all. There may be a possible way to fix it, but I think that may take me too long to figure out. 
+
+8:08 AM I finished adding all of the "blanks" and adding the variables to the javascript doc!! I'm done with the code now!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! :)
