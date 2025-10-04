@@ -4,6 +4,9 @@
 
 Mad Libs Gone Mad is a website where you make mad libs through inputting nouns, verbs, and adjectives and receiving a jumbled story in return. This is just like a regular Mad Lib you would complete, but only that you don't know what your answers to the form will look like in the final Mad Lib paragraph!
 
+For the Athena Award 
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
+
 ## Journey
 
 This is the quickest that I've ever completed a project, probably. I spent the last 2-3 weeks working mainly on this project. I even remember falling asleep during a field trip, and dreaming up a solution to one of the problems I had when coding the Javascript inputs because of how much I was working on it. I'm very proud of how this turned out, even though the CSS was extremely simple.
