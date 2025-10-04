@@ -163,3 +163,5 @@ Proud of everything rn
 7:09 PM I realized that the way I did the design was absolutely horrible. I edited the coloring of the homepage (which is going to be the basis on how I color the rest of the site) by making the nav and the footer green, which already makes it 10 times better than my previous design. 
 
 8:29 PM I continued adjusting the color scheme of the front page, and I also made the go start mad lib button transition its color on hover
+
+9:04 PM I got around to standardizing the nav button, heading, and paragraph styling throughout the page. I also put the results within another div so that I can actually make sure its hidden under the cover. I made all of the nav buttons round, finished the colors of one of the mad lib forms, and I adjusted the scroll bar coloring as well. I'm going to keep the styling for the page simple for now since I don't want to continue working on this project anymore (this was supposed to be a side project). 
