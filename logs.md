@@ -173,3 +173,5 @@ Proud of everything rn
 10:42 PM Linked the favicons to each page
 
 11:06 PM Finished the links page
+
+11:42 PM I thought I could finish today, but I have one issue with the variable sentence for mad lib 1. I've been testing and retrying ways to output the conditionals for the past 40 minutes, but it hasn't worked yet. When I was finally able to maybe be able to output the last sentence properly, the form stops working. It's getting late so I'll try to finish the project tomorrow. 
