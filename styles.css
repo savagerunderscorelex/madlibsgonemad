@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Henny+Penny&family=Merienda:wght@300..900&display=swap');
 
 
-.merienda-regular, input, #page-desc, .result-paragraphs, #footer-desc, #start-mad-lib, .under-heading, .navlinks {
+.merienda-regular, input, #page-desc, .result-paragraphs, #footer-desc, #start-mad-lib, .under-heading, .navlinks, .descriptions, li {
   font-family: "Merienda", cursive;
   font-optical-sizing: auto;
   font-weight: 500;
@@ -395,4 +395,14 @@ html::-webkit-scrollbar-thumb:hover {
 /* Button Stuff */
 .be-round, .navlinks {
     border-radius: 20px !important;
+}
+
+/* Link Page Styling */
+#favicon-links {
+    margin-top: -6%;
+}
+
+#inspo-links {
+    margin-bottom: 15%;
+    margin-top: -2%;
 }

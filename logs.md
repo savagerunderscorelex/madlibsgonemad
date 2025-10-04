@@ -171,3 +171,5 @@ Proud of everything rn
 10:33 PM Made the favicons! :3
 
 10:42 PM Linked the favicons to each page
+
+11:06 PM Finished the links page
