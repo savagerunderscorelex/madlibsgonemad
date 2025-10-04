@@ -6,7 +6,7 @@
 * ~~Write the mad libs story with blanks~~
 * ~~figure out how to use js to insert user inputs into a mad lib~~
 * ~~Also choose fonts for the website~~
-* finish homepage
+* ~~finish homepage~~
 * maybe figure out how to allow users to create custom links to share their mad lib results? (it might take me years to do it ngl)
 * ~~Create ~~website~~ page for each mad lib~~
 * probably branch from the main every time I have a problem that might take me 2 hours like the fetching input issue (we have branches for a reason :p)
@@ -16,16 +16,16 @@
 * ~~edit scrollbar~~
 * ~~HOW COULD I FORGET ABOUT FAVICONS????? I NEED TO MAKE FAVICONS~~
 * standardize the input colors on mad lib form 1
-* mention that these are surprise mad libs
+* ~~mention that these are surprise mad libs~~
 * ~~switch around `<a>`s and `<button>`s to make the whole button an anchor (move class navlinks to anchor instead of button)~~
 * ~~finish off mad lib results variables in javascript file~~
 * ~~style the mad lib paragraphs~~
 * ~~Create Color Theme (Scrollbar, backgrounds, color theme for each page)~~
 * ~~structure the homepage better~~
-* add links to links page
-* add footer to links page
-* yeah I think that's it
-* actually no, update read me when project is complete
+* ~~add links to links page~~
+* ~~add footer to links page~~
+* ~~yeah I think that's it~~
+* ~~actually no, update read me when project is complete~~
   * Journey
   * Idea
   * Background
