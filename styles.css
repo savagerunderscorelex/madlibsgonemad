@@ -11,7 +11,7 @@
 }
 
 
-.henny-penny-regular, #heading, #mad-lib-cover-words, .mad-lib-selection-buttons, .mad-lib-headings-2 {
+.henny-penny-regular, .headings, #mad-lib-cover-words, .mad-lib-selection-buttons, .mad-lib-headings-2 {
   font-family: "Henny Penny", system-ui;
   font-weight: 400;
   font-style: normal;
@@ -42,7 +42,7 @@ form {
     padding-top: 1%;
     height: fit-content;
 }
-.mad-lib-headings-2, #heading, .navlinks {
+.mad-lib-headings-2, .headings, .navlinks {
     color: black;
 }
 
@@ -108,7 +108,7 @@ label {
     padding-top: 5%;
 }
 
-#heading {
+.headings {
     font-size: 5em;
     margin-top: .8em;
 }
@@ -269,14 +269,10 @@ nav:hover {
     height: 40%;
 }
 #section1 {
-   hey: 23;
+   margin-top: 3%;
 
 }
 
-#section2 {
-    hey: 23;
- 
-}
 .mad-lib-headings-2 {
     padding-top: 9%;
     padding-bottom: 1%;
@@ -287,9 +283,37 @@ nav:hover {
 }
 
 #home-body {
-    background-color: rgb(146, 209, 140);
+    background-color: white;
 }
+
+.section-bg {
+    width: auto;
+    z-index: -1;
+}
+
+#section1-bg {
+    background-color: #3a794f;
+}
+
+#section2-bg {
+    background-color: #499663;
+}
+
+#actual-start-button {
+    border:#2c623e solid 3px;
+    transition: background-color 0.8s ease-in, color 0.8s ease;
+    color: black;
+}
+
+#actual-start-button:hover {
+    background-color: #3a794f;
+    color: white;
+}
+
 /* Mad Lib Selection Page Styling */
+
+
+
 .mad-lib-selection-buttons {
     padding-top: 6%;
     padding-bottom: 6%;
